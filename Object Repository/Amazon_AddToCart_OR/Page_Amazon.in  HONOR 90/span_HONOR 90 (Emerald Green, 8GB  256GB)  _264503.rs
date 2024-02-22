@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HONOR 90 (Emerald Green, 8GB  256GB)  _264503</name>
+   <tag></tag>
+   <elementGuidId>08d1ba61-4edd-48f7-8672-52fd9bca792d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-medium.a-color-base.a-text-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad0552ef-5b62-4414-953d-9115920864df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium a-color-base a-text-normal</value>
+      <webElementGuid>afc3cb6c-e34d-47e1-b20b-c2dcccfd91b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HONOR 90 (Emerald Green, 8GB + 256GB) | India's First Eye Risk-Free Display | 200MP Main &amp; 50MP Selfie Camera | Segment First Quad-Curved AMOLED Screen | Without Charger</value>
+      <webElementGuid>90fa7dc3-952d-478c-9624-9f59011283d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-result-item s-asin sg-col-0-of-12 sg-col-16-of-20 sg-col s-widget-spacing-small sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v2ef34xpz4g7e42bsw0vrg0v0gx s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;puisg-row&quot;]/div[@class=&quot;puisg-col puisg-col-4-of-12 puisg-col-8-of-16 puisg-col-12-of-20 puisg-col-12-of-24 puis-list-col-right&quot;]/div[@class=&quot;puisg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/div[@class=&quot;a-section a-spacing-none puis-padding-right-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-2&quot;]/a[@class=&quot;a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal&quot;]/span[@class=&quot;a-size-medium a-color-base a-text-normal&quot;]</value>
+      <webElementGuid>e07542d2-ade9-4049-b394-fa3fce48f461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      <webElementGuid>641d3be0-52bc-477b-8e39-5d24b77cb55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a/span</value>
+      <webElementGuid>fd0b18c6-f250-4b51-a83f-38dab2facddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;HONOR 90 (Emerald Green, 8GB + 256GB) | India&quot; , &quot;'&quot; , &quot;s First Eye Risk-Free Display | 200MP Main &amp; 50MP Selfie Camera | Segment First Quad-Curved AMOLED Screen | Without Charger&quot;) or . = concat(&quot;HONOR 90 (Emerald Green, 8GB + 256GB) | India&quot; , &quot;'&quot; , &quot;s First Eye Risk-Free Display | 200MP Main &amp; 50MP Selfie Camera | Segment First Quad-Curved AMOLED Screen | Without Charger&quot;))]</value>
+      <webElementGuid>487fc722-cc82-41a0-8eeb-08a42c301382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_TabNavigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06573973-6e25-4279-bb57-8714c123a33a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>44f851bb-7696-4f42-aa21-21d4233a4cf0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Amazon_TabNavigation_Excel/Amazon_Excel_TabNavigation</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>44f851bb-7696-4f42-aa21-21d4233a4cf0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>inputproduct</value>
+      <variableId>0ebf34d2-c9c0-4ca8-a6a6-878d44ddbf0c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ebf34d2-c9c0-4ca8-a6a6-878d44ddbf0c</id>
+      <masked>false</masked>
+      <name>inputproduct</name>
+   </variable>
+</TestCaseEntity>

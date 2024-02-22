@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_AddToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed01c244-48c6-4c7c-a44e-8a6416993066</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9fadfe88-1df9-45c3-bf03-c2e8b71d7d29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HONOR 90'</defaultValue>
+      <description></description>
+      <id>9fadfe88-1df9-45c3-bf03-c2e8b71d7d29</id>
+      <masked>false</masked>
+      <name>searchitem</name>
+   </variable>
+</TestCaseEntity>

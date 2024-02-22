@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_ProductSearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cceaec9-1d71-467e-be86-718fc0bdb8fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01004715-5f2d-4de6-add2-ecde1cecf287</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01004715-5f2d-4de6-add2-ecde1cecf287</id>
+      <masked>false</masked>
+      <name>productname</name>
+   </variable>
+</TestCaseEntity>

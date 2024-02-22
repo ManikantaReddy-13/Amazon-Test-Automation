@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc1be027-b86b-4465-a7e5-a3350bc1f746</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f1f8e458-0263-4bb0-add2-4a83fb9f60e5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Amazon_Filter_Excel/Amazon_Excel_Filter</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f1f8e458-0263-4bb0-add2-4a83fb9f60e5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Filter</value>
+      <variableId>68913e2c-0483-45d0-8b62-6c245f8e3d30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68913e2c-0483-45d0-8b62-6c245f8e3d30</id>
+      <masked>false</masked>
+      <name>Filter</name>
+   </variable>
+</TestCaseEntity>

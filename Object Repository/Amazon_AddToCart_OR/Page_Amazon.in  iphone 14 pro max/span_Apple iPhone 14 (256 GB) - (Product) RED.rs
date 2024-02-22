@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apple iPhone 14 (256 GB) - (Product) RED</name>
+   <tag></tag>
+   <elementGuidId>50585af3-4b55-4342-9aff-1e7b2916b35b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-medium.a-color-base.a-text-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dafbb097-a427-41a0-83df-c58cb6f5838c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-medium a-color-base a-text-normal</value>
+      <webElementGuid>6d4921b5-7433-4a75-b37a-a2930d21c23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple iPhone 14 (256 GB) - (Product) RED</value>
+      <webElementGuid>39037320-1826-44f6-9e51-baf134167640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-result-item s-asin sg-col-0-of-12 sg-col-16-of-20 AdHolder sg-col s-widget-spacing-small sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/div[@class=&quot;rush-component&quot;]/div[@class=&quot;rush-component s-featured-result-item&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v2ef34xpz4g7e42bsw0vrg0v0gx s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;puisg-row&quot;]/div[@class=&quot;puisg-col puisg-col-4-of-12 puisg-col-8-of-16 puisg-col-12-of-20 puisg-col-12-of-24 puis-list-col-right&quot;]/div[@class=&quot;puisg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/div[@class=&quot;a-section a-spacing-none puis-padding-right-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-2&quot;]/a[@class=&quot;a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal&quot;]/span[@class=&quot;a-size-medium a-color-base a-text-normal&quot;]</value>
+      <webElementGuid>0ad542a4-e8a9-444b-a32a-8f284ac57a68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[3]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+      <webElementGuid>d7772a8e-438b-450b-b88f-4b64b1dbb3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a/span</value>
+      <webElementGuid>d38519fc-81d6-42f3-8b67-cd3fb421d2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apple iPhone 14 (256 GB) - (Product) RED' or . = 'Apple iPhone 14 (256 GB) - (Product) RED')]</value>
+      <webElementGuid>32eb3365-7792-4618-a9f7-34dd669b2f93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
