@@ -99,4 +99,5 @@ To successfully complete this project, you should have prior knowledge in the fo
 
 Create the project folder with the following structure:
 
-![Project Flow](Project flow.png)
+![Project Flow](./images/Project_flow.png)
+
