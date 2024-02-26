@@ -2,127 +2,101 @@
 
 # Project Documentation
 
-## Checkpoints
+# Amazon Test Automation Project
 
-- **Amazon_Login.cpt:** Checkpoint file related to Amazon login.
+## Project Description
 
-## Data Drive Testing
+This project involves the automated testing of the Amazon website using Katalon Studio. Amazon is a multinational technology company focusing on e-commerce, cloud computing, and various digital services. The objective of this testing project is to ensure the functionality, reliability, and performance of the Amazon website, allowing users to search for products and place orders seamlessly.
 
-- **Amazon_AddToCart.xlsx:** Data file for Add to Cart testing.
-- **Amazon_Filter.xlsx:** Data file for Filter testing.
-- **Amazon_Login.xlsx:** Data file for Login testing.
-- **Amazon_ProductSearch.xlsx:** Data file for Product Search testing.
-- **Amazon_TabNavigation.xlsx:** Data file for Tab Navigation testing.
+## Project Flow
 
-## Data Files
+1. User interacts with the UI to enter the system.
+2. Login credentials are entered and verified.
+3. Upon successful login, the user navigates to the Amazon home page.
+4. The user can select a product category, input a search item, and click on the magnifier button.
 
-- **Amazon_AddToCart_Excel:**
-  - Amazon_Excel_AddToCart.dat
+## Project Activities
 
-- **Amazon_Filter_Excel:**
-  - Amazon_Excel_Filter.dat
+### 1. Define Problem / Problem Understanding
 
-- **Amazon_Login_Excel:**
-  - Amazon_Excel_Login.dat
+- Clearly defined and understanded the problems to be addressed in the testing process.
 
-- **Amazon_ProductSearch_Excel:**
-  - Amazon_Excel_ProductSearch.dat
+### 2. Specify the Business Problem
 
-- **Amazon_TabNavigation_Excel:**
-  - Amazon_Excel_TabNavigation.dat
+- Document the specific business problems that the testing process aims to solve.
 
-## Documents
+### 3. Business Impact
 
-- **Business Problem Specification for Amazon.pdf:** Document specifying the business problem for Amazon.
-- **Business Requirements for Amazon.pdf:** Document outlining business requirements for Amazon.
-- **Literature Survey for Amazon.pdf:** Document presenting a literature survey for Amazon.
-- **Social or Business Impact for Amazon.pdf:** Document discussing social or business impact for Amazon.
-- **~$Amazon_ST_Test_Scenario.xlsx:** Temporary file related to test scenarios.
+- Analyzing and describing the potential impact of the testing process on the business.
 
-## Include/config
+### 4. Test Case Preparation
 
-- **log.properties:** Configuration file for logging.
+- Prepared detailed test cases covering various scenarios and functionalities.
 
-## Jenkins Integration
+### 5. Analyze Requirements
 
-- **Jenkins Integration Report.pdf:** Report related to Jenkins integration.
+- Reviewed and analyzed the testing requirements.
 
-## Libs/internal
+### 6. Create Scenarios and Collect Input Data
 
-- **GlobalVariable.groovy:** Global variables script.
-- **CustomKeywords.groovy:** Custom keywords script.
-- **TempTestCase1707324347275.groovy:** Temporary test case script.
-- **TempTestCase1707406342758.groovy:** Temporary test case script.
+- Defined testing scenarios and collected necessary input data.
 
-## Object Repository
+### 7. Preparation of Test Cases
 
-- **Amazon_AddToCart_OR:**
-  - Object repository files related to Add to Cart.
+- Developed test cases based on the defined scenarios.
 
-- **Amazon_Filter_OR:**
-  - Object repository files related to Filter.
+### 8. Test Data Preparation (Validation Table)
 
-- **Amazon_Login_OR:**
-  - Object repository files related to Login.
+- Prepared test data in the form of a validation table as per the baseline document.
 
-- **Amazon_ProductSearch_OR:**
-  - Object repository files related to Product Search.
+### 9. Script / Test Case Execution
 
-- **Amazon_TabNavigation_OR:**
-  - Object repository files related to Tab Navigation.
+- Executed scripts and test cases at both the test suite and test suite collection levels.
 
-## Scripts/Amazon
+### 10. Handling and Validating Buttons
 
-- **TC_Amazon_AddToCart:**
-  - Script1707147997659.groovy
+- Implemented handling mechanisms for buttons and validate their functionality.
 
-- **TC_Amazon_Filter:**
-  - Script1707217155060.groovy
+### 11. Test Listeners
 
-- **TC_Amazon_Login:**
-  - Script1707118056414.groovy
+- Utilized test listeners to handle events during the test execution.
 
-- **TC_Amazon_ProductSearch:**
-  - Script1707132725765.groovy
+### 12. Build Delivery
 
-- **TC_Amazon_TabNavigation:**
-  - Script1707215613812.groovy
+- Prepared the delivery build for the testing process.
 
-## Test Cases/Amazon
+### 13. Integrating Katalon to Git and Jenkins
 
-- **TC_Amazon_AddToCart.tc**
-- **TC_Amazon_Filter.tc**
-- **TC_Amazon_Login.tc**
-- **TC_Amazon_ProductSearch.tc**
-- **TC_Amazon_TabNavigation.tc**
+- Integrated the testing project with Git for version control and Jenkins for continuous integration.
 
-## Test Listeners
+### 14. Cross-Browser Testing using TestCloud
 
-- **Amazon_AddToCart.groovy**
-- **Amazon_Filter.groovy**
-- **Amazon_Login.groovy**
-- **Amazon_ProductSearch.groovy**
-- **Amazon_TabNavigation.groovy**
+- Performed cross-browser testing using TestCloud to ensure compatibility.
 
-## Test Plan
+### 15. Generating and Analyzing Reports
 
-- **TEST PLAN for Amazon Project.pdf:** Document detailing the test plan.
+- Generated detailed test reports and analyze the results.
 
-## Test Scenarios
+### 16. Sending Report through Email
 
-- **Amazon_ST_Test_Scenario.xlsx:** File containing test scenarios.
+- Implemented a mechanism to automatically send test reports via email.
 
-## bin
+## Prior Knowledge
 
-- **lib/internal:**
-- **CustomKeywords.class:** Compiled files related to internal libraries.
-- **TempTestCase1707324347275.class:**
-- **TempTestCase1707406342758.class:**
+To successfully complete this project, you should have prior knowledge in the following areas:
 
-- **listener:**
-  - Compiled files related to listeners.
+- Software testing concepts
+- STLC (Software Testing Life Cycle)
+- Manual Testing
+- Automation Testing
+- Software Automation process and tools
+- Automation testing process
+- Classification of automation testing tools
+- Difference between Manual and Automation testing
+- Advantages and need of automation testing tools
 
-- **cache/Keywords:**
-  - Cached keyword files.
-  - ...
+## Project Structure
 
+Create the project folder with the following structure:
+
+![Project Flow]()
