@@ -10,10 +10,36 @@ This project involves the automated testing of the Amazon website using Katalon 
 
 ## Project Flow
 
-1. User interacts with the UI to enter the system.
-2. Login credentials are entered and verified.
-3. Upon successful login, the user navigates to the Amazon home page.
-4. The user can select a product category, input a search item, and click on the magnifier button.
+# Login
+ - User Interaction: Users interact with the UI to enter the system.
+ - Login Credentials Entry: Login credentials (username and password) are entered.
+ - Login Verification: The system verifies the entered login credentials.
+
+# Product Search
+ - User Interaction: Users interact with the UI to enter the system.
+ - Login Credentials: Login credentials are entered and verified.
+ - Successful Login: Upon successful login, the user navigates to the Amazon home page.
+ - Product Search: The user selects a product category, inputs a search item, and clicks on the magnifier button.
+
+# Add to Cart
+ - User Interaction: Users interact with the UI to enter the system.
+ - Login Credentials: Login credentials are entered and verified.
+ - Successful Login: Upon successful login, the user navigates to the Amazon home page.
+ - Product Selection: The user selects a product category.
+ - Add to Cart: The user selects a specific product and clicks on the "Add to Cart" button.
+
+# Filter
+ - User Interaction: Users interact with the UI to enter the system.
+ - Login Credentials: Login credentials are entered and verified.
+ - Successful Login: Upon successful login, the user navigates to the Amazon home page.
+ - Product Selection: The user selects a product category.
+ - Filter Products: The user applies filters to refine product search results.
+
+# Tab Navigation
+ - User Interaction: Users interact with the UI to enter the system.
+ - Login Credentials: Login credentials are entered and verified.
+ - Successful Login: Upon successful login, the user navigates to the Amazon home page.
+ - Tab Navigation: The user navigates through different tabs or sections within the application.
 
 ## Project Activities
 
